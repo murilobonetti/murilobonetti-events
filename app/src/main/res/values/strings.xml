@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">Eventos</string>
+    <string name="connection_status">Status da conexão</string>
+    <string name="event_details">Eventos</string>
+    <string name="event_image">Imagem do evento</string>
+
+    <string name="event_price">Valor: R$ %.2f</string>
+    <string name="event_date">Data: %s</string>
+
+    <string name="insert_info">Informe seus dados para fazer check-in</string>
+    <string name="email">E-mail</string>
+    <string name="name">Nome</string>
+    <string name="mandatory_name_field">O campo Nome é obrigatório.</string>
+    <string name="mandatory_email_field">O campo E-mail é obrigatório.</string>
+    <string name="invalid_email">E-mail inválido.</string>
+
+    <string name="check_in">Check-in</string>
+    <string name="do_check_in">Fazer check-in</string>
+    <string name="check_in_successful">Check-in realizado com sucesso!</string>
+    <string name="check_in_failed">Check-in não realizado, por favor tente novamente.</string>
+
+    <string name="share">Compartilhar</string>
+    <string name="share_event_message">Estou no evento "%s". Venha participar você também!</string>
+    <string name="directions">Como chegar</string>
+
+</resources>
